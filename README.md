@@ -141,9 +141,6 @@ The script handles common errors such as:
 
 This toolkit is for educational purposes only. Unauthorized use of this script against systems you do not own or have explicit permission to test is illegal and unethical. The creators are not responsible for any misuse of this tool.
 
-## Contributions
-
-Feel free to submit pull requests or suggest features to improve this toolkit.
 
 ## Author
 - Devarsh Mehta
